@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm a **Computer Science student** with a growing passion for **Data Engineering**.  
+- 🎓 I'm a **Computer Science student**.  
 - 🔭 Currently working on: [PCShop](https://github.com/wduc181/PCShop) — a full-stack eCommerce app built with **Spring Boot** and **React + Vite +TailwindCSS**.  
 - 🌱 Currently learning:
   - **FastAPI** & **Java Spring Boot** for backend development  
@@ -32,9 +32,6 @@
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/></a>
 </p>
 
 **Databases & Tools**
