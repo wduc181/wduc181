@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 - 🎓 I'm a **Computer Science student**.  
-- 🔭 Currently working on: [PCShop](https://github.com/wduc181/PCShop) — a full-stack eCommerce app built with **Spring Boot** and **React + Vite +TailwindCSS**.  
+- 🔭 Currently working on: 
 - 🌱 Currently learning:
-  - **FastAPI** & **Java Spring Boot** for backend development  
-  - **Data Engineering fundamentals** — *Data Architecture, Batch & Stream Processing, Pipeline Orchestration*  
-- 🧩 Interested in AI.  
+  - Backend development (Java Spring Boot).
+  - Microservices architecture.
+- 🧩 Interested in AI and big data. 
 - 📫 Reach me at **vvd1811@gmail.com**
 
 ---
