@@ -10,8 +10,8 @@
 ### About Me
 -  I'm a **Computer Science student**.  
 -  Currently learning:
-  - Backend development (Java Spring Boot).
-  - Microservices architecture.
+   - Backend development (Java Spring Boot).
+   - Microservices architecture.
 -  Interested in AI and big data. 
 -  Reach me at **vvd1811@gmail.com**
 
