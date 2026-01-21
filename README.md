@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viet Duc</h1>
-<h3 align="center">I'm a computer Science Student</h3>
+<h3 align="center">I'm a Computer Science Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wduc181&label=Profile%20views&color=0e75b6&style=flat" alt="wduc181" />
@@ -10,8 +10,10 @@
 ### About Me
 -  I'm a **Computer Science student**.  
 -  Currently learning:
+   - MERN stack.
    - Backend development (Java Spring Boot).
    - Microservices architecture.
+   - Data Engineering: Building ETL pipelines with Spark, Hadoop, and PostgreSQL.
 -  Interested in AI and big data. 
 -  Reach me at **vvd1811@gmail.com**
 
@@ -31,12 +33,17 @@
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
 </p>
 
 **Databases & Tools**
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
@@ -50,4 +57,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wduc181&show_icons=true&theme=tokyonight" alt="wduc181 stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wduc181&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
